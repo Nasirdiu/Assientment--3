@@ -16,4 +16,7 @@ list-style: none;
     border-radius: 15px;
     box-shadow: 10px 5px 5px rgb(224, 182, 182);
 }
-
+footer{
+    background-color: rgb(14, 1, 1);
+    height: 150px;
+}
