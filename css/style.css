@@ -8,3 +8,12 @@ body{
 .nav-span{
    color: coral;
 }
+.main-list li{
+list-style: none;
+}
+.main-card-3{
+    background-color: #3F87F5;
+    border-radius: 15px;
+    box-shadow: 10px 5px 5px rgb(224, 182, 182);
+}
+
