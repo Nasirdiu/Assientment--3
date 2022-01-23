@@ -1,6 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Island+Moments&family=Lobster&family=Poppins&family=Roboto:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Island+Moments&family=Lobster&family=Poppins:wght@500&family=Roboto:wght@500&display=swap');
 body{
     font-family: 'Poppins', sans-serif;
+   font-family: 'Roboto', sans-serif;
     margin: 0px;
     padding: 0px;
     border: 0px;
@@ -14,9 +15,17 @@ list-style: none;
 .main-card-3{
     background-color: #3F87F5;
     border-radius: 15px;
-    box-shadow: 10px 5px 5px rgb(224, 182, 182);
+    box-shadow: 10px 5px 5px rgb(238, 236, 236);
 }
 footer{
-    background-color: rgb(14, 1, 1);
-    height: 160px;
+    background-color: black;
+    height: 280px;
+}
+.car-3{
+    bottom: 40px;
+}
+.hot{
+    bottom:25px;
+    left: 180px;
+    border-radius: 50px;
 }
